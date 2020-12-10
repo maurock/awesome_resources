@@ -1,5 +1,9 @@
-# Great resources
+# Awesome resources
 This is my not-exhaustive collection of the best resources on Machine learning I find. I will try to update this constantly. Suggestions are very much appreciated!
+But first.. since awesome resources require an equally-awesome image, here's the largest NASA Hubble Space Telescope image ever assembled, representing a bird's-eye view of a portion of the Andromeda galaxy (M31)
+
+![M31 (3)](https://user-images.githubusercontent.com/30290271/101808498-b06a2e00-3b16-11eb-993f-b858619eac5c.png)
+*Portion of the Andromeda galaxy (M31). We are looking at over 100 million stars in a 61,000-light-year-long stretch of the galaxy's disk, 2 million light-years away from us.* ([source](https://hubblesite.org/contents/media/images/2015/02/3476-Image.html?Type=01-hubble-favorites&Topic=105-galaxies))
 
 ## Reinforcement Learning
 - [Dissecting Reinforcement Learning - Series (M. Patacchiola's blog)](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html): introductory lectures on Reinforcement Learning. Code is provided and explained for every step. Very interesting overview on the intersection between RL and neuroscience.
