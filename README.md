@@ -1,6 +1,6 @@
 # Awesome resources
 This is my not-exhaustive collection of the best resources on Machine learning I have encountered so far. I will try to update this constantly. Suggestions are very much appreciated!
-But first.. since awesome resources require an equally-awesome image, here's the largest NASA Hubble Space Telescope image ever assembled, representing a bird's-eye view of a portion of the Andromeda galaxy (M31)
+But first.. since awesome resources require an equally-awesome image, here's the largest NASA Hubble Space Telescope image ever assembled as 2020, representing a bird's-eye view of a portion of the Andromeda galaxy (M31)
 
 ![M31 (3)](https://user-images.githubusercontent.com/30290271/101808498-b06a2e00-3b16-11eb-993f-b858619eac5c.png)
 *Portion of the Andromeda galaxy (M31). We are looking at over 100 million stars in a 61,000-light-year-long stretch of the galaxy's disk, 2 million light-years away from us.* ([source](https://hubblesite.org/contents/media/images/2015/02/3476-Image.html?Type=01-hubble-favorites&Topic=105-galaxies))
@@ -31,4 +31,5 @@ But first.. since awesome resources require an equally-awesome image, here's the
 
 ## Others
 - [Machine Learning Tokyo Meetup group](https://www.meetup.com/Machine-Learning-Tokyo): Weekly meetups on Machine learning, mathematics, awesome events, etc..
-- [Henry AI Lab Weekly AI](https://www.youtube.com/watch?v=G7FdHjaDMNA&t=188s): a ~35 minutes weekly update on AI every Monday.The author also skims over new papers or speak about cool talks held during the past week.
+- [Henry AI Lab Weekly AI](https://www.youtube.com/watch?v=G7FdHjaDMNA&t=188s): a ~35 minutes weekly update on AI every Monday. The author also skims over new papers or speak about cool talks held during the past week.
+- [Sentdex's python programming](https://pythonprogramming.net/): Probably the best and most popular collection of videos for python programming you can find online. Also, it's completely free. The courses cover python programming for Machine learning, Data analysis, cool Deep Learning projects (e.g. Self-driving cars on GTA 5), among others.
