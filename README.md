@@ -27,7 +27,7 @@ But first.. since awesome resources require an equally-awesome image, here's the
 
 ## Writing
 - [LaTeX Math Symbols](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
-- [Writing in the sciences](https://www.coursera.org/learn/sciwrite): Coursera course offered by Standford on scientific writing.
+- [Writing in the sciences](https://www.coursera.org/learn/sciwrite): The best course I have found on scientific writing, as well as personal essays and proposals. It is a Coursera course offered by Standford, hence free to audit.
 
 ## Others
 - [Machine Learning Tokyo Meetup group](https://www.meetup.com/Machine-Learning-Tokyo): Weekly meetups on Machine learning, mathematics, awesome events, etc..
