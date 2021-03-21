@@ -33,3 +33,4 @@ But first.. since awesome resources require an equally-awesome image, here's the
 - [Machine Learning Tokyo Meetup group](https://www.meetup.com/Machine-Learning-Tokyo): Weekly meetups on Machine learning, mathematics, awesome events, etc..
 - [Henry AI Lab Weekly AI](https://www.youtube.com/watch?v=G7FdHjaDMNA&t=188s): a ~35 minutes weekly update on AI every Monday. The author also skims over new papers or speak about cool talks held during the past week.
 - [Sentdex's python programming](https://pythonprogramming.net/): Probably the best and most popular collection of videos for python programming you can find online. Also, it's completely free. The courses cover python programming for Machine learning, Data analysis, cool Deep Learning projects (e.g. Self-driving cars on GTA 5), among others.
+- [ML various lectures](https://faculty.ucmerced.edu/mhyang/course/eecs275/index.htm): Online Machine Learning lecture notes
